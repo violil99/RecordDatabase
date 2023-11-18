@@ -1,0 +1,23 @@
+Employee-ID, SIN, Name, Department, Address, Salary
+RJOHNS0789, 654321789, Robert Johnson, Sales, 101 Sales Lane, 70000
+LDAVIS0234, 789012346, Lisa Davis, Finance, 456 Finance Street, 55000
+JSMITH0456, 123456781, John Smith, Marketing, 789 Marketing Avenue, 60000
+KALLEN0123, 234567899, Karen Allen, HR, 123 HR Street, 65000
+MCOOPER0567, 345678901, Michael Cooper, IT, 567 IT Lane, 75000
+SJOHNSON0789, 456789012, Sarah Johnson, Sales, 890 Sales Boulevard, 72000
+BANDERSON0456, 567890123, Brian Anderson, Finance, 234 Finance Drive, 58000
+DTHOMPSON0123, 678901235, David Thompson, Marketing, 901 Marketing Road, 62000
+KSMITH0567, 789012347, Kevin Smith, IT, 345 IT Avenue, 70000
+PJONES0789, 890123456, Patricia Jones, HR, 678 HR Lane, 67000
+JROBERTS0456, 901234567, Jennifer Roberts, Sales, 123 Sales Street, 68000
+MDAVIS0123, 345678902, Mark Davis, Finance, 456 Finance Lane, 59000
+LCOOPER0567, 456789013, Laura Cooper, IT, 789 IT Road, 73000
+NTHOMPSON0789, 567890124, Nathan Thompson, Marketing, 234 Marketing Drive, 61000
+RSMITH0456, 678901234, Rachel Smith, HR, 567 HR Street, 66000
+GANDERSON0123, 789012345, Grace Anderson, Sales, 890 Sales Road, 70000
+TJOHNSON0567, 890123451, Thomas Johnson, Finance, 123 Finance Avenue, 60000
+VDAVIS0789, 901234562, Victoria Davis, IT, 456 IT Lane, 74000
+ZCOOPER0456, 123456789, Zachary Cooper, Marketing, 789 Marketing Road, 63000
+LTHOMPSON0123, 234567890, Linda Thompson, HR, 234 HR Street, 65000
+RSMITH0567, 345678903, Ryan Smith, Sales, 567 Sales Drive, 69000
+ADAVIS0789, 456789014, Andrew Davis, Finance, 890 Finance Avenue, 62000
